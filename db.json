@@ -1,0 +1,149 @@
+{
+   "Python":[
+    {
+        "id":1,
+        "title":"Python",
+        "description":"Python is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image":"https://www.python.org/static/community_logos/python-logo.png",
+        "Curs":[
+            {
+                "id":1,
+                "title":"Python",
+                "description":"Python Function is a programming language that lets you work quickly and integrate systems more effectively.",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                "prise":"2000"
+            },
+            {
+                "id":2,
+                "title":"Python",
+                "description":"Python  is a import MIX Function ",
+                "image":"https://www.python.org/static/community_logos/python-logo.png", "prise":"1000"
+                
+            },
+            {
+                "id":3,
+                "title":"Python",
+                "description":"Python import and Function FULL",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"10000"
+            }
+        ]
+    },{
+        "id":2,
+        "title":"Python is Telegram Bot",
+        "description":"Python is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image":"https://www.python.org/static/community_logos/python-logo.png", "Curs":[
+            {
+                "id":1,
+                "title":"Python is Telegram Bot",
+                "description":"Python is Telegram Bot is a programming language that lets you work quickly and integrate systems more effectively.",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"12000"
+            },
+            {
+                "id":2,
+                "title":"Python is Telegram Bot",
+                "description":"Python is Telegram Bot MIX Function ",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"122000"
+            },
+            {
+                "id":3,
+                "title":"Python is Telegram Bot",
+                "description":"Python is Telegram Bot FULL",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"52000"
+            }
+        ]
+    },{
+        "id":3,
+        "title":"Python is Django",
+        "description":"Python is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image":"https://www.python.org/static/community_logos/python-logo.png", "Curs":[
+            {
+                "id":1,
+                "title":"Python is Django",
+                "description":"Python is Django is a programming language that lets you work quickly and integrate systems more effectively.",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"20000"
+            },
+            {
+                "id":2,
+                "title":"Python is Django",
+                "description":"Python is Django  is a import MIX Function ",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"20000"
+            },
+            {
+                "id":3,
+                "title":"Python is Django",
+                "description":"Python is Django FULL",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"34000"
+            }
+        ]
+    }
+   ],
+   "Java":[
+    {
+        "id":1,
+        "title":"Java",
+        "description":"Java is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image":"https://www.python.org/static/community_logos/python-logo.png",
+        "Curs":[
+            {
+                "id":1,
+                "title":"Python",
+                "description":"Python Function is a programming language that lets you work quickly and integrate systems more effectively.",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"45000"
+            },
+            {
+                "id":2,
+                "title":"Python",
+                "description":"Python  is a import MIX Function ",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"67000"
+            },
+            {
+                "id":3,
+                "title":"Python",
+                "description":"Python import and Function FULL",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"1112000"
+            }
+        ]
+    }
+   ],
+   "JavaScript":[
+    {
+        "id":1,
+        "title":"JavaScript",
+        "description":"JavaScript is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image":"https://www.python.org/static/community_logos/python-logo.png",
+        "Curs":[
+            {
+                "id":1,
+                "title":"JavaScript",
+                "description":"JavaScript Function is a programming language that lets you work quickly and integrate systems more effectively.",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"45000"
+            },
+            {
+                "id":2,
+                "title":"JavaScript",
+                "description":"JavaScript  is a import MIX Function ",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"67000"
+            },
+            {
+                "id":3,
+                "title":"JavaScript",
+                "description":"JavaScript import and Function FULL",
+                "image":"https://www.python.org/static/community_logos/python-logo.png",
+                 "prise":"1112000"
+            }
+        ]
+    }
+   ]
+}
